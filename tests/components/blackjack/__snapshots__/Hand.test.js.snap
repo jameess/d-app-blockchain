@@ -1,0 +1,9 @@
+exports[`test should render Hand component 1`] = `
+<div
+  className="row" />
+`;
+
+exports[`test should render NoMatch component 1`] = `
+<div
+  className="row" />
+`;
